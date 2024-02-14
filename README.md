@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Jasmine 
 [Connect with Me](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/jasmine-melton/)
 
 [Breif Introduction]
