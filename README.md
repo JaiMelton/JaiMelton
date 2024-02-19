@@ -6,7 +6,7 @@
 An aspiring cybersecurity professional with a fervent interest in technology, eager to apply my skills and contribute to securing digital environments.
 
 ## Objective 
-[Provide Objective]
+
 
 After delving into business analytics, my path has ignited a fervor for cybersecurity, driving my enthusiasm to transition into the field. I am particularly keen on securing a position as a Cybersecurity Analyst or Security Analyst, or contributing to a Security Operations Center (SOC) as a Tier 1 Analyst.
 
