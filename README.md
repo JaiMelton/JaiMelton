@@ -15,8 +15,12 @@ After delving into business analytics, my path has ignited a fervor for cybersec
 
 | skill                                   | Associated Project     |
 |-----------------------------------------|------------------------|
-|SIEM Implementation and Log Analysis     |                        |
-| Network Traffic Monitoring and Attack Detection                  | 
+|SIEM Implementation and Log Analysis     | Home Cybersecurity Lab                         |
+|Network Traffic Monitoring and Attack Detection | Home Cybersecurity Lab                  | 
+|Installing and configuring various operating systems |                                    |
+|Deploying and configuring intrusion detection and prevention systems (IDS/IPS) to monitor and protect networks from malicious activities |            |
+                                                                  
+
 
 
 
@@ -49,7 +53,8 @@ After delving into business analytics, my path has ignited a fervor for cybersec
 </div>
 
 ## Projects 
- - Home Cybersecurity Lab 
+ - Home Cybersecurity Lab
+ - Cybersecurity Lab in AWS 
 
 <!--
 **JaiMelton/JaiMelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
