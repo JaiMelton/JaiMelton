@@ -60,6 +60,22 @@ After delving into business analytics, my path ignited a fervor for cybersecurit
 
 
 
+## Technical Documentation
+
+As a technical writer with experience in cybersecurity, I specialize in creating clear, concise, and well-organized documentation for both technical and non-technical audiences. I am skilled in working with subject matter experts to gather complex information and present it in an accessible format. My documentation experience includes user manuals, process documentation, and system guides.
+
+### Key Skills:
+- **Documentation Tools**: Markdown, Microsoft Word, Confluence, Adobe Acrobat, MadCap Flare
+- **Types of Documentation**: User Guides, API Documentation, System Documentation, Process Manuals, FAQs
+- **Standards**: NIST, FISMA, CIS Benchmarks, Risk Management
+
+### Notable Projects:
+1. **SIEM Implementation in AWS (Capstone Project)**: Created comprehensive documentation for setting up a SIEM system in AWS, including security configurations, troubleshooting steps, and integration with other tools.
+2. **Multi-Subnet Cybersecurity Lab in AWS**: Developed step-by-step guides for configuring a multi-subnet AWS environment with a focus on security best practices and IAM configurations.
+3. **Active Directory Configuration Documentation**: Authored detailed instructions for setting up and managing Active Directory in a Windows environment, including user access control and security configuration.
+
+
+
 ## Certifications 
 <div>
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-003A59?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.comptia.org/certifications/security)" />
