@@ -53,9 +53,11 @@ After delving into business analytics, my path ignited a fervor for cybersecurit
 
 ## Cloud 
 <div>
-<img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)" />
-
+  <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)" />
 </div>
+
 
 
 ## Certifications 
