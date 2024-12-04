@@ -8,7 +8,7 @@ An aspiring cybersecurity professional with a fervent interest in technology, ea
 ## Objective 
 
 
-After delving into business analytics, my path has ignited a fervor for cybersecurity, driving my enthusiasm to transition into the field. I am particularly keen on securing a position as a Cybersecurity Analyst or Security Analyst, or contributing to a Security Operations Center (SOC) as a Tier 1 Analyst.
+After delving into business analytics, my path ignited a fervor for cybersecurity, driving my enthusiasm to transition into the field. I am particularly keen on securing a position as a Cybersecurity Analyst, Security Analyst, or contributing to a Security Operations Center (SOC) as a Tier 1 Analyst. Alongside my cybersecurity career, I am also eager to leverage my strong technical writing skills to create clear, accessible documentation, including user guides, security manuals, and process documentation. My goal is to combine my passion for securing digital environments with my ability to communicate complex technical concepts effectively, ensuring that both technical and non-technical audiences can understand and apply the information.
 
 ## Skills 
 
