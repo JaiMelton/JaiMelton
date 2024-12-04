@@ -29,8 +29,18 @@ After delving into business analytics, my path ignited a fervor for cybersecurit
   <img src="https://img.shields.io/badge/-Snort-336791?&style=for-the-badge&logo=snort&logoColor=white)](https://www.snort.org/" />
   <img src="https://img.shields.io/badge/-Metasploit-DC382D?&style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/" />
   <img src="https://img.shields.io/badge/-pfSense-2FA4E7?&style=for-the-badge&logo=pfsense&logoColor=white)](https://www.pfsense.org/" />
-
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/" />
+  <img src="https://img.shields.io/badge/-Nmap-008000?&style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/" />
+  <img src="https://img.shields.io/badge/-NetFlow%20Analyzer-0066CC?&style=for-the-badge&logo=logrhythm&logoColor=white)" />
+  <img src="https://img.shields.io/badge/-Tcpdump-EE3D4A?&style=for-the-badge&logo=tcpdump&logoColor=white)" />
+  <img src="https://img.shields.io/badge/-Nessus-29A4D9?&style=for-the-badge&logo=tenable&logoColor=white)" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kali&logoColor=white)" />
+  <img src="https://img.shields.io/badge/-OpenVAS-8BC34A?&style=for-the-badge&logo=greenkeeper&logoColor=white)" />
+  <img src="https://img.shields.io/badge/-Suricata-E35146?&style=for-the-badge&logo=suricata&logoColor=white)" />
+  <img src="https://img.shields.io/badge/-ZMap-0061F2?&style=for-the-badge&logo=zmap&logoColor=white)" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-9C2D00?&style=for-the-badge&logo=burp-suite&logoColor=white)" />
 </div>
+
 
 ## SIEM 
 <div>
