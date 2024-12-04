@@ -44,9 +44,14 @@ After delving into business analytics, my path ignited a fervor for cybersecurit
 
 ## SIEM 
 <div>
-<img src="https://img.shields.io/badge/-Wazuh-2189b9?&style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)" />
-
+  <img src="https://img.shields.io/badge/-Wazuh-2189b9?&style=for-the-badge&logo=wazuh&logoColor=white)](https://wazuh.com/)" />
+  <img src="https://img.shields.io/badge/-Splunk-0056A1?&style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)" />
+  <img src="https://img.shields.io/badge/-Elastic%20Stack-E05A00?&style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)" />
+  <img src="https://img.shields.io/badge/-Graylog-660000?&style=for-the-badge&logo=graylog&logoColor=white)](https://www.graylog.org/)" />
+  <img src="https://img.shields.io/badge/-LogRhythm-0066CC?&style=for-the-badge&logo=logrhythm&logoColor=white)" />
+  <img src="https://img.shields.io/badge/-QRadar-004C8C?&style=for-the-badge&logo=ibm&logoColor=white)" />
 </div>
+
 
 ## Cloud 
 <div>
