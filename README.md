@@ -1,5 +1,6 @@
 ### Hello, I'm Jasmine 
-[Connect with Me](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/jasmine-melton/)
+[Connect with Me](https://www.linkedin.com/in/jasmine-melton/)
+
 
 [Breif Introduction]
 
@@ -13,12 +14,16 @@ After delving into business analytics, my path ignited a fervor for cybersecurit
 ## Skills 
 
 
-| skill                                   | Associated Project     |
-|-----------------------------------------|------------------------|
-|SIEM Implementation and Log Analysis     | Home Cybersecurity Lab                         |
-|Network Traffic Monitoring and Attack Detection | Home Cybersecurity Lab                  | 
-|Installing and configuring various operating systems |                                    |
-|Deploying and configuring intrusion detection and prevention systems (IDS/IPS) to monitor and protect networks from malicious activities |            |
+| **Skill**                                                       | **Associated Project**                                                   |
+|------------------------------------------------------------------|-------------------------------------------------------------------------|
+| SIEM Implementation and Log Analysis                             | **Home Cybersecurity Lab**: Implemented SIEM tools (e.g., Splunk) to monitor and analyze network logs for threats. |
+| Network Traffic Monitoring and Attack Detection                  | **Home Cybersecurity Lab**: Set up network traffic monitoring tools (e.g., Wireshark, tcpdump) to detect malicious activities. |
+| Installing and Configuring Various Operating Systems             | **Personal Lab**: Installed and configured Windows/Linux systems for testing and learning system hardening techniques. |
+| Deploying and Configuring IDS/IPS Systems (Intrusion Detection and Prevention) | **Personal Project**: Deployed Snort IDS/IPS on a test network to monitor and protect against cyber threats. |
+| **Active Directory Management in Windows**                       | **Active Directory in Windows Desktop/Home Security Lab (Dec 2023)**: Set up and managed a virtual environment for security testing and user access control. Focused on system security design, network management, and user provisioning. |
+| **Cloud Security in AWS**                                        | **Multi-Subnet Cybersecurity Lab in AWS (Feb 2024)**: Designed and implemented a multi-subnet cloud architecture in AWS to simulate secure IAM configurations, ensuring compliance with NIST and FISMA standards. |
+| **SIEM Implementation in AWS**                                   | **SIEM Implementation in AWS (Capstone Project, July 2024)**: Led the implementation of a SIEM system in AWS for real-time monitoring of security events. Developed custom dashboards in Splunk for IAM-related logs and conducted security assessments. |
+
                                                                   
 
 
@@ -75,10 +80,14 @@ After delving into business analytics, my path ignited a fervor for cybersecurit
 
 ## Certifications 
 <div>
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-003A59?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.comptia.org/certifications/security)" />
+  <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-003A59?&style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.comptia.org/certifications/security)" />
+  <img src="https://img.shields.io/badge/-AWS%20Certified%20Security%20Specialty%20(In%20Progress)-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-security-specialty/)" />
+</div>
 
   
 </div>
+
+
 
 ## Projects 
  - Home Cybersecurity Lab
