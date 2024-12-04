@@ -91,7 +91,10 @@ After delving into business analytics, my path ignited a fervor for cybersecurit
 
 ## Projects 
  - Home Cybersecurity Lab
- - Cybersecurity Lab in AWS 
+ - Cybersecurity Lab in AWS
+ - SIEM Implementation in AWS (Capstone Project)
+ - Security Automation Script
+ - Incident Response Playbook 
 
 <!--
 **JaiMelton/JaiMelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
